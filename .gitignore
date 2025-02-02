@@ -1,0 +1,25 @@
+
+#doumentar
+*.csv
+*.zip
+#igorar la carpeta __pycache__, que contiene archivos de caché generados automáticamente por Python.
+__pycache__
+
+
+#ignorar todos los archivos CSV, ya que suelen ser archivos de datos muy grandes
+*.csv
+
+#ignorar todos los archivos ZIP,
+*.zip
+
+#ignorar la carpeta __pycache__, que contiene archivos de caché generados automáticamente por Python. Estos archivos no son necesarios para el repositorio.
+__pycache__
+
+#ignorar todos los archivos de registro, ya que suelen ser archivos grandes que no son necesarios para el repositorio.
+*.log
+
+#ignorar todos los archivos de los modelos, ya que suelen ser archivos grandes que no son necesarios para el repositorio (Se cuenta con en ellos en una carpeta de Google Drive)
+transformers/desechar
+transformers/modelos
+
+.env
