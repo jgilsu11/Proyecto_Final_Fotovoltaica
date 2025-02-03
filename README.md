@@ -25,10 +25,11 @@ Adicionalmente, se ha utilizado información obtenida mediante scraping para mej
 El desarrollo del proyecto se ha organizado de la siguiente manera:
 
 ```
-├── Dashboard/                              # Contiene el dashboard y la presentación del proyecto
-│   ├── Dashboard_Fotovoltaica.pbix         # Dashboard interactivo en Power BI
+├── Multimedia/                             # Contiene el dashboard, la imagen del Readme y la presentación del proyecto
+│   ├── Dashboard_Fotovoltaica.pbix         # Dashboard interactivo en Power BI (también en pdf para que se pueda ver un adelanto)
 │   ├── Presentacion_Google.pptx            # Presentación del proyecto
-│
+│   ├── Imagen                              # Imagen del encabezado del Readme
+
 ├── datos/                                  # Datos utilizados y generados en el proyecto
 │   ├── EF/                                 # Datos de energía fotovoltaica (para predicción)
 │   │   ├── Datos_alimentados/              # Datos tras primera carga ya alimentados
