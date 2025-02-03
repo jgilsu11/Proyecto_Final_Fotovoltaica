@@ -1,7 +1,7 @@
 # Entrega final: Aumento de valor en la vivienda por la instalación de Fotovoltaica
 
-
-![Dashboard Fotovoltaica](https://github.com/tu_usuario/Proyecto_Final_Fotovoltaica/blob/main/Imagen/imagen_dashboard.webp)  
+   
+![Energía Fotovoltaica en Viviendas](https://Proyecto_Final_Fotovoltaica/Multimedia/Imagen_proyecto_final_readme.webp)
 
 ---
 
