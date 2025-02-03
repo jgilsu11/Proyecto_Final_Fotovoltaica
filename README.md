@@ -85,8 +85,9 @@ El desarrollo del proyecto se ha organizado de la siguiente manera:
 ├── .gitignore                               # Archivos a ignorar en el repositorio
 ├── README.md                                # Documentación del proyecto actual
 ```
-  
-Aquí está el enlace para los modelos predictivos más pesados: https://drive.google.com/drive/folders/1WJGWWn3AxBDvA75PuM4CAVRuieE7R3gm?usp=sharing 
+
+Aquí está el enlace para los modelos predictivos más pesados: https://drive.google.com/drive/folders/1WJGWWn3AxBDvA75PuM4CAVRuieE7R3gm?usp=sharing  
+
 ---
 
 ## Requisitos e Instalación 🛠️
