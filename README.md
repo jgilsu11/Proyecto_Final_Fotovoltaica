@@ -112,6 +112,17 @@ Se recomienda crear dos entornos virtuales uno general y otro únicamente para l
 | **Modelo Medianas** | Random Forest    | **0.98**          | **0.01**                  | **0.96**     | **1.00**   |**0.98**     |
 | **Modelo Pequeñas** | Random Forest    | **0.99**          | **0.01**                  | **0.97**     | **1.00**   |**0.99**     |
 
+---
+
+## Concluisones principales     
+  
+1. **La fotovoltaica impacta positivamente el precio de la vivienda, aumentando su valor en un 54% en promedio (Dato sesgado por la baja proporción de viviendas con energía fotovoltaica).**  
+2. **Las viviendas grandes y medianas son las que más adoptan fotovoltaica, mientras que las amplias presentan menor adopción.**  
+3. **El año de construcción es clave:** Las viviendas más nuevas tienen mayor proporción de paneles solares.  
+4. **El factor económico influye:** Los hogares con ingresos superiores a 3,000€ mensuales tienen mayor presencia de fotovoltaica.  
+5. **La sostenibilidad juega un rol importante:** La mayoría de los hogares con energía fotovoltaica practican reciclaje y tienen coches eléctricos o híbridos.  
+6. **Las regiones con alta radiación solar tienen mayor proporción de viviendas con fotovoltaica.**  
+7. **Los hogares cuyas CCAA proporcionan ayudas a la financiación e instalación de energía fotovoltaica cuentan con una mayor probabilidad de adoptar dicha tecnología.**  
 
 ---
 
@@ -121,8 +132,10 @@ Este proyecto permite conocer detalladamente el perfil de las viviendas con ener
 
 ---
 
-## Próximos Pasos 🚀
+## Próximos Pasos 🚀  
+  
+1. **Ampliar el dataset:** Conseguir más datos adicionales a los de Red Piso para mejorar la representatividad y para reducir sesgos en la evaluación del impacto de la energía fotovoltaica en el precio.    
+2. **Incorporación de más variables socioeconómicas:** Para determinar con más precisión qué factores influyen en la decisión de instalar paneles solares.   
+3. **Desarrollo de herramientas interactivas (Streamlit o API):** Integrar una API que permita a los usuarios estimar el impacto de la fotovoltaica en su vivienda o permitir a los usuarios verificar si su vivienda cumple el perfil para la instalación de energía fotovoltaica usando Streamlit.    
+4. **Desarrollar una API:** Integración con plataformas inmobiliarias para hacer accesible la información de predicción.  
 
-1. Desarrollar una aplicación en Streamlit para que los usuarios puedan verificar si su vivienda cumple el perfil de energía fotovoltaica.
-2. Conseguir más datos adicionales a los de Red Piso para mejorar la representatividad de viviendas con fotovoltaica.
-3. Ajustar los resultados reflejados en el dashboard para reducir sesgos en el análisis de variaciones de precio (Unido al punto 2).
