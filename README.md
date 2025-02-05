@@ -26,7 +26,7 @@ El desarrollo del proyecto se ha organizado de la siguiente manera:
 
 ```
 ├── Multimedia/                             # Contiene el dashboard, la imagen del Readme y la presentación del proyecto
-│   ├── Dashboard_Fotovoltaica.pbix         # Dashboard interactivo en Power BI (también en pdf para que se pueda ver un adelanto)
+│   ├── Dashboard_Fotovoltaica.pdf          # Dashboard interactivo de Power BI en pdf 
 │   ├── Presentacion_Google.pptx            # Presentación del proyecto
 │   ├── Imagen                              # Imagen del encabezado del Readme
 
