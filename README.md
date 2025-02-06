@@ -83,6 +83,10 @@ El desarrollo del proyecto se ha organizado de la siguiente manera:
 │   ├── modelos/                             # Pickles de modelos entrenados (Están el enlace de Drive que se encuentra más abajo)
 │   ├── preprocesamiento/                    # Pickles de preprocesamiento
 │
+├── entornos/                                # Entornos necesarios
+│   ├── entorno_automl.yml                   # Entorno para AutoML
+│   ├── proyecto_final_bootcamp.yml          # Entorno general
+│
 ├── .gitignore                               # Archivos a ignorar en el repositorio
 ├── README.md                                # Documentación del proyecto actual
 ```
@@ -99,7 +103,7 @@ Este proyecto usa Python 3.11.9 y bibliotecas como:
 - scikit-learn, shap, pickle, tqdm
 - requests, sys, os
 
-Se recomienda crear dos entornos virtuales uno general y otro únicamente para lo relacionado con automel (Pycaret) para asegurar la compatibilidad de bibliotecas.
+Se recomienda hacer uso de los dos entornos virtuales uno general y otro únicamente para lo relacionado con AutoML (Pycaret) para asegurar la compatibilidad de bibliotecas.
 
 ---
 
