@@ -118,7 +118,7 @@ Se recomienda hacer uso de los dos entornos virtuales uno general y otro únicam
 
 ---
 
-## Concluisones principales     
+## Conclusiones principales     
   
 1. **La fotovoltaica impacta positivamente el precio de la vivienda, aumentando su valor en un 54% en promedio (Dato sesgado por la baja proporción de viviendas con energía fotovoltaica).**  
 2. **Las viviendas grandes y medianas son las que más adoptan fotovoltaica, mientras que las amplias presentan menor adopción.**  
